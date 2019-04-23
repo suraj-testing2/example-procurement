@@ -1,0 +1,3 @@
+less .ruby-version
+git add .
+git commit -m 'ruby-version upgrade to 2.6'

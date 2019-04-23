@@ -1,0 +1,10 @@
+version: 1
+service:
+  name: Procurement Service
+  #lifecycle: beta
+  #tier: tier_2
+  #product: Procurement
+  #owner: inventory_team
+  #language: Ruby
+  #framework: Rails
+  #description: Manages inventory levels and procures new inventory from vendors when levels are low.

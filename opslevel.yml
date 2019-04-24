@@ -6,5 +6,5 @@ service:
   product: Procurement
   owner: inventory_team2
   language: Ruby
-  framework: Rails
+  framework: 
   description: Foo

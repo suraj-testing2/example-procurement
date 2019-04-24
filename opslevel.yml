@@ -1,7 +1,7 @@
 version: 1
 service:
   name: Procurement Service
-  #lifecycle: beta
+  lifecycle: beta
   #tier: tier_2
   product: Procurement
   #owner: inventory_team

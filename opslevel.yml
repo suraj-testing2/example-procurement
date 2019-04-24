@@ -4,7 +4,7 @@ service:
   lifecycle: beta
   tier: tier_2
   product: Procurement
-  owner: inventory_team2
+  owner: inventory_team
   language: Ruby
   framework: Rails
   description: foo

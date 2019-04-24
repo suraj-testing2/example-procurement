@@ -2,8 +2,9 @@ version: 1
 service:
   name: Procurement Service
   lifecycle: beta
-  #tier: tier_2
+  tier: tier_2
   product: Procurement
-  #owner: inventory_team
+  owner: inventory_team
   language: Ruby
   framework: Rails
+  description: Foo

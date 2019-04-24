@@ -7,4 +7,4 @@ service:
   owner: inventory_team
   language: Ruby
   framework: Rails
-  description: foo
+  description: Foo

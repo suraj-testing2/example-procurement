@@ -1,10 +1,10 @@
 version: 1
 service:
   name: Procurement Service
-  lifecycle: beta2
-  tier: tier_22
+  lifecycle: beta
+  tier: tier_2
   product: Procurement
   owner: inventory_team2
   language: Ruby
-  framework: 
-  description: Foo
+  framework: Rails
+  description: foo

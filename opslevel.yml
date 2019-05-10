@@ -4,7 +4,7 @@ service:
   lifecycle: beta
   tier: tier_3
   product: Procurement
-  owner: inventory_team
+  owner: inventory_team2
   language: Ruby
   framework: Rails
   description: Manages inventory levels and procures new inventory from vendors when levels are low.

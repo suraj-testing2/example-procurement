@@ -1,8 +1,8 @@
 version: 1
 service:
-  name: Procurement Services :)
+  name: Procurement Service
   lifecycle: alpha
-  tier: tier_4
+  tier: tier_2
   product: Procurement
   owner: inventory_team
   language: Ruby

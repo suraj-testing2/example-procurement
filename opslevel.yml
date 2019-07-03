@@ -1,6 +1,6 @@
 version: 1
 service:
-  name: Procurement Service
+  name: Procurement Services :)
   lifecycle: alpha
   tier: tier_4
   product: Procurement

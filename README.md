@@ -1,6 +1,6 @@
 # Ruby on Rails Tutorial: sample application
 
-**This repository is not current or maintained. See [www.railstutorial.org/help](https://www.railstutorial.org/help) for the current version of the sample app.**
+**This repository is not current nor maintained. See [www.railstutorial.org/help](https://www.railstutorial.org/help) for the current version of the sample app.**
 
 This is the sample application for
 [*Ruby on Rails Tutorial: Learn Web Development with Rails*](http://railstutorial.org/)

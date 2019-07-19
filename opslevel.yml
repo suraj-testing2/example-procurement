@@ -8,3 +8,7 @@ service:
   language: Ruby
   framework: Rails
   description: Manages inventory levels and procures for new inventory from vendors.
+  tools:
+  - name: PagerDuty
+    category: incidents
+    url: https://google.ca

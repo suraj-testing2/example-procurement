@@ -7,7 +7,7 @@ service:
   owner: inventory_team
   language: Ruby
   framework: Rails
-  description: Manages inventory levels and procures for new inventory from vendors.
+  description: Manages the inventory levels and procures for new inventory from vendors.
   tools:
   - name: PagerDuty
     category: incidents

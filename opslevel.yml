@@ -12,3 +12,7 @@ service:
   - name: PagerDuty
     category: incidents
     url: https://google.com
+  - name: Confluence
+    category: runbooks
+    url: https://google.ca
+    environment: Production

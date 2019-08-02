@@ -24,4 +24,4 @@ service:
   - name: LogDNA
     category: logs
     url: https://google.ca
- 
+    environment: Development

@@ -21,3 +21,7 @@ service:
     category: incidents
     url: https://google.ca
     environment: Staging
+  - name: LogDNA
+    category: logs
+    url: https://google.ca
+ 

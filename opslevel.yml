@@ -21,6 +21,6 @@ service:
     url: https://google.ca
     environment: Staging
   - name: LogDNA
-    category: logs
+    category: LoGs
     url: https://google.com
     environment: Development

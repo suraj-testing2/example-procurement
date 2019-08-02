@@ -9,6 +9,9 @@ service:
   framework: Rails
   description: Manages the inventory levels and procures for new inventory from vendors.
   tools:
+  - name: Confluence
+    category: runbooks
+    url: https://google.ca
   - name: PagerDuty
     category: incidents
     url: https://google.ca

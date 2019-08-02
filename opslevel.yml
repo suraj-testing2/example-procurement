@@ -24,7 +24,7 @@ service:
     category: LoGs
     url: https://google.com
     environment: Development
-  - name: Bugnsag
+  - name: Bugsnag
     category: errors
     url: https://google.ca
     environment: Production

@@ -1,3 +1,4 @@
+---
 version: 1
 service:
   name: Procurement Service
@@ -9,12 +10,22 @@ service:
   framework: Rails
   description: Manages the inventory levels and procures for new inventory from vendors.
   tools:
+  - name: GitHub
+    category: code
+    url: https://github.com/OpsLevel/learn-rails
+    environment: 
+  - name: GitHub
+    category: code
+    url: https://github.com/whatever
+    environment: 
   - name: Confluence
     category: runbooks
     url: https://google.ca
+    environment: 
   - name: PagerDuty
     category: incidents
     url: https://google.ca
+    environment: 
   - name: PagerDuty
     category: incidents
     url: https://google.ca

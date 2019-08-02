@@ -25,5 +25,6 @@ service:
     url: https://google.com
     environment: Development
   - name: Bugnsag
+    category: errors
     url: https://google.ca
     environment: Production

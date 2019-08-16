@@ -5,7 +5,7 @@ service:
   lifecycle: alpha
   tier: tier_1
   product: Procurement
-  owner: inventory_team
+  owner: test
   language: Ruby
   framework: Rails
   description: Manages the inventory levels and procures for new inventory from vendors.

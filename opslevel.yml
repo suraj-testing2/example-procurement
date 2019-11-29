@@ -38,3 +38,7 @@ service:
     category: errors
     url: https://google.ca
     environment: Production
+  - name: Confluence
+    category: wiki
+    url: https://foo.atlassian.com/wiki/procurement-service
+    

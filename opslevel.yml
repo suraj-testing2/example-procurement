@@ -9,6 +9,9 @@ service:
   language: Ruby
   framework: Rails
   description: Manages the inventory levels and procures for new inventory from vendors and blah
+  aliases:
+  - foo
+  - bar
   tools:
   - name: GitHub
     category: code

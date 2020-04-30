@@ -12,7 +12,7 @@ service:
   aliases:
   - foo
   -     
-  - name: asd
+  - name: asds
   tools:
   - name: GitHub
     category: code

@@ -11,8 +11,6 @@ service:
   description: Manages the inventory levels and procures for new inventory from vendors and blah
   aliases:
   - foo
-  - "   "
-  - dinosaurs are cool
   tools:
   - name: GitHub
     category: code

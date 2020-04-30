@@ -10,6 +10,7 @@ service:
   framework: Rails
   description: Manages the inventory levels and procures for new inventory from vendors and blah
   aliases:
+  - name: asd
   - foo
   - existing
   tools:

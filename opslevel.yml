@@ -14,6 +14,7 @@ service:
   - bar
   - akka_testd
   - akka_test
+  - baz
   tools:
   - name: GitHub
     category: code

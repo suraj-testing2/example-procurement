@@ -12,6 +12,8 @@ service:
   aliases:
   - foo
   - bar
+  - akka_testd
+  - akka_test
   tools:
   - name: GitHub
     category: code

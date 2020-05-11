@@ -10,7 +10,7 @@ service:
   framework: Rails
   description: Manages the inventory levels and procures for new inventory from vendors and blah
   aliases:
-  - foos
+  - foo
   tools:
   - name: GitHub
     category: code

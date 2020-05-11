@@ -11,10 +11,6 @@ service:
   description: Manages the inventory levels and procures for new inventory from vendors and blah
   aliases:
   - foo
-  - bar
-  - akka_testd
-  - akka_test
-  - baz
   tools:
   - name: GitHub
     category: code

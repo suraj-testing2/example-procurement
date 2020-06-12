@@ -8,7 +8,7 @@ service:
   owner: inventory_team
   language: Ruby
   framework: Rails
-  description: Manages the inventory levels and procures for new inventory from vendors and blah
+  description: Manages the inventory levels and procures for new inventory from vendors and blahblah
   aliases:
   - foos
   tools:
